@@ -2,7 +2,7 @@
 
 ## 关于 Larawos 开发框架
 
-Larawos 是一个基于 Laravel 5.4 的专注于快速开发API服务端项目的框架，该框架除了保有 Laravel 原有的一切特性及功能外，还增加了以下功能特性:
+Larawos 是一个基于 Laravel 5.5 的专注于快速开发API服务端项目的框架，该框架除了保有 Laravel 原有的一切特性及功能外，还增加了以下功能特性:
 
 - 基于 Laravel 自带的 sqlite 数据库实现的全文搜索功能。
 - API文档自动生成。
